@@ -1,0 +1,4 @@
+.DS*
+*.asv
+*.m~
+*__pycache__*
